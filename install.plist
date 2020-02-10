@@ -28,7 +28,7 @@
 
      <!-- http或者https链接的ipa文件地址 -->
 
-     <string>http://x5.justep.com/apps/x5.ipa</string>
+     <string>http://192.168.0.250:8080/qunyingxiaoxiongzhuan-mobile.ipa</string>
 
     </dict>
 
@@ -46,7 +46,7 @@
 
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
 
-     <string>http://x5.justep.com/apps/x5.png</string>
+     <string>http://192.168.0.250:8080/icon.png</string>
 
     </dict>
 
@@ -64,7 +64,7 @@
 
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
 
-     <string>http://x5.justep.com/apps/x5.png</string>
+     <string>http://192.168.0.250:8080/icon.png</string>
 
     </dict>
 
@@ -78,13 +78,13 @@
 
     <!-- BundleID，就是新建app时的包名 -->
 
-    <string>com.junshen.xgz</string>
+    <string>com.liyiguagn.qyxxz</string>
 
     <key>bundle-version</key>
 
     <!-- 版本号 -->
 
-    <string>5.3.2</string>
+    <string>1.0.0</string>
 
     <key>kind</key>
 
