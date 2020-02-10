@@ -78,7 +78,7 @@
 
     <!-- BundleID，就是新建app时的包名 -->
 
-    <string>com.justep.x5.demo</string>
+    <string>com.junshen.xgz</string>
 
     <key>bundle-version</key>
 
@@ -94,7 +94,7 @@
 
     <!-- 安装app时的提示信息 -->
 
-    <string>X5 App download</string>
+    <string>枭雄三国志</string>
 
    </dict>
 
