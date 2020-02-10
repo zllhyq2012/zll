@@ -28,7 +28,7 @@
 
      <!-- http或者https链接的ipa文件地址 -->
 
-     <string>http://192.168.0.250:8080/qunyingxiaoxiongzhuan-mobile.ipa</string>
+     <string>http://192.168.0.250:8080/qunyin.app</string>
 
     </dict>
 
